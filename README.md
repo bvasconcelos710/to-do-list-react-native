@@ -20,7 +20,20 @@ Este projeto é um aplicação simples que permite que você gerencie as tecnolo
 
 ## Instalação
 
-Para executar o projeto realize o clone do repositório para o seu ambiente local:
+Realize o clone do repositório para o seu ambiente local:
 
 ```bash
 git clone https://github.com/bvasconcelos710/to-do-list-react-native.git
+```
+
+## Instale as depências
+
+```bash
+npm install
+```
+
+## Inicie o projeto
+
+```bash
+npm start
+```
