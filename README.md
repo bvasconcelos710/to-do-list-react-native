@@ -18,9 +18,9 @@ Este projeto é um aplicação simples que permite que você gerencie as tecnolo
 - Visualizar o número de tecnologias criadas.
 - Visualizar o número de tecnologias concluídas.
 
-## Instalação
+# Para executar o projeto
 
-Realize o clone do repositório para o seu ambiente local:
+## Clone o repositório
 
 ```bash
 git clone https://github.com/bvasconcelos710/to-do-list-react-native.git
